@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align=right>
-  <img src="https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white"><a href="https://yelin1217.tistory.com/"></a>
+  <img src="https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white" href="https://yelin1217.tistory.com/">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYelin-park&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true">
 </div>
 <br>
