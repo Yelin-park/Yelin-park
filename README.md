@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 ***
 
-<br>
-
 <div align=center><h2>💻 My Tech Stack 💻</h2></div>
 <div align=center>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -57,8 +55,5 @@ Here are some ideas to get you started:
 src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://applejam34.tistory.com/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> 
-<img
-src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mae951217@gmail.com"
-style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYelin-park&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true">
 </div>
