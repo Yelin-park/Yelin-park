@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <div align=center><h2>💻 My Tech Stack 💻</h2></div>
 <div align=center>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/-ORACLE-F80000?style=for-the-badge&logo=oracle">
   <br>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff">
@@ -44,17 +45,20 @@ Here are some ideas to get you started:
 <br>
 
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yelin-park&layout=compact&theme=dark">
+  <h2>It's Me ✌️</h2>
+  <img style="width: 60%" src="https://github-readme-stats.vercel.app/api?username=Yelin-park&show_icons=true&theme=dracula">
+  <img style="width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yelin-park&layout=compact&theme=dark">
 </div>
-
 <br>
-
-<div align=center><h2>It's Me ✌️</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Yelin-park&show_icons=true&theme=dracula">
-</div>
 
 <div align=right>
-  <img src="https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white" href="https://yelin1217.tistory.com/">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYelin-park&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true">
+<a href="https://yelin1217.tistory.com/">
+<img
+src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://applejam34.tistory.com/"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a> 
+<img
+src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mae951217@gmail.com"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 </div>
-<br>
