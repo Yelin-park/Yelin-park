@@ -1,17 +1,15 @@
 ## System.out.print("Hello Yaliny World 👋👋👋");
 <div>
   안녕하세요!<br>
-  백엔드 개발자를 꿈꾸며 한 걸음🚶 한 걸음🚶 나아가는 비전공자 박예린 입니다.🐣 <br>
+  오늘보다 내일 더 성장하는 개발자가 되기 위해 한 걸음🚶 한 걸음🚶 나아가는 박예린 입니다.🐣 <br><br>
 
-  더 많은 것을 보고 배우며 오늘보다 내일 더 나은 사람이 되기 위해 오늘도 한 걸음 더 나아갑니다.🏃<br>
+  <!-- 코딩으로 새로운 것을 만들 수 있다는 것에 흥미가 생겨 개발자의 꿈을 가지게 되었습니다.<br> -->
 
-  문제를 파악하고 해결함에 있어 희열을 느끼고 코딩으로 새로운 것을 만들 수 있다는 것에 흥미가 생겨 개발자의 꿈을 가지게 되었습니다.<br>
-
-  의사소통과 협업, 함께 성장하고 나아가는 것을 중요하게 생각하여 늘 귀를 기울이고 함께 고민하는 개발자가 되기 위해 노력하고 있습니다.<br>
+  문제를 파악하고 해결함에 있어 희열감을 느끼며 의사소통과 협업, 함께 성장하고 나아가는 것을 중요하게 생각하여 늘 귀를 기울이고 함께 고민하는 개발자가 되기 위해 노력하고 있습니다.<br>
 
   새로운 지식과 기술을 배우는 것을 좋아하며, 알고있는 지식과 경험을 함께 공유하는 것을 좋아합니다.<br>
 
-  겸손함을 잃지 않고 늘 배우고자 하는 자세를 가지려고 하며, 공부하는 습관을 유지하고 오늘보다 내일 더 나은 사람이 되기 위해 <a href="https://yelin1217.tistory.com/">기술 블로그</a> 포스팅을 하고 있습니다.<br>
+  겸손함을 잃지 않고 늘 배우고자 하는 자세를 가지려고 하며, 공부하는 습관을 유지하고 오늘보다 내일 더 나은 사람이 되기 위해 <a href="https://yelin1217.tistory.com/">기술 블로그</a>에 공부한 내용 등을 포스팅을 하고 있습니다.<br>
 </div>
 <br>
 
@@ -19,6 +17,7 @@
 <div align=left>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
   <img src="https://img.shields.io/badge/-ORACLE-F80000?style=for-the-badge&logo=oracle">
   <br>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff">
@@ -59,6 +58,7 @@
 - ITQ 엑셀 A등급
 - 전산회계 1,2급
 - 전산회계운용사 3급
+- 기업회계 3급
 - 협상전문가 3급
 
 <div align=right>
