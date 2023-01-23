@@ -15,17 +15,25 @@
 
 ## 💻 My Tech Stack 💻
 <div align=left>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-  <img src="https://img.shields.io/badge/-ORACLE-F80000?style=for-the-badge&logo=oracle">
   <br>
+
+  <img src="https://img.shields.io/badge/-ORACLE-F80000?style=for-the-badge&logo=oracle">
+  <img src="https://img.shields.io/badge/-MYSQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/-MSSQL-CC2927?style=for-the-badge&logo=Microsoft SQL Server">
+  <br>
+
+  <img src="https://img.shields.io/badge/-Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=black">
+
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery">
   <br>
   
+  <img src="https://img.shields.io/badge/SVN-black?style=for-the-badge&logo=SVN">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <br>  
@@ -56,10 +64,10 @@
 - 워드프로세스 1급
 - 컴퓨터활용능력 2급
 - ITQ 엑셀 A등급
-- 전산회계 1,2급
+<!-- - 전산회계 1,2급
 - 전산회계운용사 3급
 - 기업회계 3급
-- 협상전문가 3급
+- 협상전문가 3급 -->
 
 <div align=right>
 <a href="https://yelin1217.tistory.com/"><img
