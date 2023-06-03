@@ -41,17 +41,19 @@
 </div>
 <br>
 
+<!--
 ## It's Me ✌️
 <div align=left>  
   <img style="width: 60%" src="https://github-readme-stats.vercel.app/api?username=Yelin-park&show_icons=true&theme=dracula">
   <img style="width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yelin-park&layout=compact&theme=dark">
 </div>
 <br>
-
+-->
 ## Project 📚
 - <a href="https://github.com/Yelin-park/SpringProject_TODOLIST">Spring Project - 인생은 점진적 과부하(todolist)</a>
 - <a href="https://github.com/Yelin-park/OracleProject_MarketKurly"> Oracle Data Base Project - MarketKurly</a>
 
+<!--
 ## Education ✏️
 - 2022.02.15 ~ 2022.08.02 쌍용교육센터(수료)
 - 2018.03 ~ 2022.02 아주대학교 글로벌경영학과(졸업)
@@ -69,6 +71,7 @@
 - 전산회계운용사 3급
 - 기업회계 3급
 - 협상전문가 3급 -->
+
 
 <div align=right>
 <a href="https://yelin1217.tistory.com/"><img
