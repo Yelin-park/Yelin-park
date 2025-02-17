@@ -49,10 +49,11 @@
 </div>
 <br>
 -->
+<!--
 ## Project 📚
 - <a href="https://github.com/Yelin-park/SpringProject_TODOLIST">Spring Project - 인생은 점진적 과부하(todolist)</a>
 - <a href="https://github.com/Yelin-park/OracleProject_MarketKurly"> Oracle Data Base Project - MarketKurly</a>
-
+-->
 <!--
 ## Education ✏️
 - 2022.02.15 ~ 2022.08.02 쌍용교육센터(수료)
