@@ -1,4 +1,4 @@
-## System.out.print("Hello Yaliny World 👋👋👋");
+# System.out.print("Hello Yaliny World 👋👋👋");
 <div>
   안녕하세요!<br>
   거북이의 마음으로 느리지만 꾸준히 노력하며, <br>
@@ -14,6 +14,9 @@
     <li>겸손함을 잃지 않고 늘 배우고자 하는 자세를 가지려고 하며, 공부하는 습관을 유지하고 오늘보다 내일 더 나은 사람이 되기 위해 <a href="https://yelin1217.tistory.com/">기술 블로그</a>에 공부한 내용 등을 포스팅을 하고 있습니다.</li>
 </ul> -->
 </div>
+
+<br>
+<br>
 
 ## 💻 My Tech Stack 💻
 <div align=left>
@@ -35,10 +38,9 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
   <br>
 
-  <!-- <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff"> -->
-  <!-- <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"> -->
-  <!-- <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> -->
-  <!-- <img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery"> -->
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <br>
   
   <img src="https://img.shields.io/badge/SVN-black?style=for-the-badge&logo=SVN">
@@ -46,6 +48,8 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <br>  
 </div>
+
+<br>
 <br>
 
 <!--
@@ -80,10 +84,15 @@
 - 기업회계 3급
 - 협상전문가 3급 -->
 
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yelin-park&show_icons=true&theme=holi) -->
 
-<div align=right>
-    <a href="https://yelin1217.tistory.com/">
-        <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://applejam34.tistory.com/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    </a>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYelin-park&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true">
-</div>
+<!-- https://github.com/mazassumnida/mazassumnida -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mae1217)](https://solved.ac/mae1217/)
+
+<br>
+<br>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/Yelin-park"/>
+</a>
