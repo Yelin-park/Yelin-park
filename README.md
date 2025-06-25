@@ -30,11 +30,11 @@
   <br>
 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
   <br>
 
    
-  <img src="https://img.shields.io/badge/-Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=black">
+  <img src="https://img.shields.io/badge/-Apache Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
   <br>
 
